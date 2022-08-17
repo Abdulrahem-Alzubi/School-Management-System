@@ -32,6 +32,7 @@ cp .env.example .env
 - run this commands .
 ``` 
 php artisan migrate
+php artisan db:seed
 php artisan passport:install
 php artisan storage:link
 ```
