@@ -1,6 +1,7 @@
 # School management system app
-## Introduction
+### 3rd year university project
 
+## Introduction
 School management system with an examination system ,
 online class and possibility of upload the curriculum ,
 a multi-authority staff and all organizational matters that facilitate and organize
